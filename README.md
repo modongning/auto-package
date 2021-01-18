@@ -49,7 +49,7 @@ channel_file=com.otoomo.package2.txt
 
 **[com_otoomo_package]** 在auto-package.sh中对应的截图示意:
 
-![image-20210118165352956](autoPackage.assets/image-20210118165352956.png)
+![image-20210118165352956](/autoPackage.assets/image-20210118165352956.png)
 
 
 
@@ -106,7 +106,7 @@ baidu01 BAIDU01
 
 #folder目录结构说明
 
-![image-20210118171234262](autoPackage.assets/image-20210118171234262.png)
+![image-20210118171234262](/autoPackage.assets/image-20210118171234262.png)
 
 如：
 
