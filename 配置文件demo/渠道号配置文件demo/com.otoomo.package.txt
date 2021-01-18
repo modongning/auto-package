@@ -1,0 +1,5 @@
+#渠道号配置
+#最后打包出来的apk名为：com.otoomo.package_baidu00.apk
+#apk安装后，使用walle识别到的渠道号为：BAIDU00
+baidu00 BAIDU00
+baidu01 BAIDU01
