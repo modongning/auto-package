@@ -1,0 +1,3 @@
+*.conf linguist-language=shell
+*.sh linguist-language=shell
+* linguist-language=shell
