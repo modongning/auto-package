@@ -170,20 +170,6 @@ KEY_ALIAS=`GetBaseConfigValue "${common_config_key}.sign_key_alias"`
 #别名密码
 KEY_ALIAS_PASSWORD=`GetBaseConfigValue "${common_config_key}.sign_key_alias_password"`
 
-function  setPicKeyInfo() {
-  #密钥路径
-  KEY_PATH=`GetBaseConfigValue "${common_config_key}.sign_key_path"`
-  #密钥密码
-  KEY_PASSWORD=`GetBaseConfigValue "${common_config_key}.sign_password"`
-  #别名
-  KEY_ALIAS=`GetBaseConfigValue "${common_config_key}.sign_key_alias"`
-  #别名密码
-  KEY_ALIAS_PASSWORD=`GetBaseConfigValue "${common_config_key}.sign_key_alias_password"`
-}
-
-#设置证书账号和密码信息
-setPicKeyInfo
-
 ####################
 #########加固########
 ####################
